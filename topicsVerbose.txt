@@ -1,0 +1,215 @@
+TOPIC:0.061*tow + 0.044*weight + 0.031*load + 0.030*trailer + 0.026*bar + 0.023*boat + 0.020*pound + 0.018*avalon + 0.017*azera + 0.015*camper + 0.014*weigh + 0.013*rear + 0.012*can + 0.012*hitch + 0.011*mike + 0.011*max + 0.011*will + 0.010*axl + 0.010*capac + 0.010*pull + 0.009*lift + 0.009*swai + 0.008*limit + 0.008*heavi + 0.008*get + 0.008*add + 0.007*need + 0.006*much + 0.005*don + 0.005*carri
+
+TOPIC:0.104*rate + 0.073*credit + 0.035*financ + 0.034*loan + 0.032*card + 0.024*altern + 0.021*get + 0.018*interest + 0.018*charg + 0.017*score + 0.016*pay + 0.016*car + 0.013*bank + 0.012*month + 0.012*payment + 0.011*approv + 0.011*can + 0.011*qualifi + 0.010*check + 0.008*will + 0.008*new + 0.007*year + 0.006*union + 0.006*just + 0.005*don + 0.005*take + 0.005*time + 0.005*higher + 0.004*lower + 0.004*lender
+
+TOPIC:0.094*seat + 0.026*room + 0.026*back + 0.019*space + 0.019*rear + 0.016*row + 0.016*fit + 0.015*passeng + 0.015*comfort + 0.011*front + 0.010*sit + 0.010*cargo + 0.010*can + 0.008*leg + 0.008*fold + 0.008*trunk + 0.008*like + 0.007*inch + 0.007*driver + 0.007*get + 0.006*car + 0.006*size + 0.006*need + 0.006*also + 0.006*wai + 0.005*third + 0.005*much + 0.005*two + 0.005*small + 0.005*adjust
+
+TOPIC:0.085*accord + 0.069*honda + 0.051*mazda + 0.044*car + 0.038*civic + 0.032*sedan + 0.024*size + 0.017*altima + 0.013*mid + 0.013*compact + 0.012*like + 0.011*maxima + 0.010*midsiz + 0.009*think + 0.009*nissan + 0.008*fit + 0.008*small + 0.008*miata + 0.006*sentra + 0.006*get + 0.006*compar + 0.006*even + 0.006*sub + 0.006*fusion + 0.006*can + 0.005*look + 0.005*just + 0.005*sport + 0.005*versa + 0.005*proteg
+
+TOPIC:0.100*report + 0.076*com + 0.070*edmund + 0.047*pleas + 0.046*consum + 0.023*press + 0.017*www + 0.017*inform + 0.012*new + 0.012*car + 0.011*look + 0.010*contact + 0.009*respond + 0.008*newspap + 0.008*com
+ + 0.008*later + 0.007*vehicl + 0.007*interest + 0.007*purchas + 0.007*show + 0.007*info + 0.006*sourc + 0.006*talk + 0.006*releas + 0.006*interview + 0.006*fridai + 0.006*thank + 0.006*daytime + 0.006*recent + 0.005*send
+
+TOPIC:0.068*air + 0.027*hot + 0.027*heat + 0.027*cool + 0.024*exhaust + 0.017*system + 0.017*fan + 0.017*coolant + 0.015*temp + 0.014*blow + 0.014*radiat + 0.012*heater + 0.012*cold + 0.012*intak + 0.011*run + 0.011*get + 0.011*smoke + 0.011*water + 0.011*temperatur + 0.009*vent + 0.008*pipe + 0.008*compressor + 0.007*flow + 0.007*hose + 0.007*can + 0.007*overheat + 0.007*just + 0.006*will + 0.006*thermostat + 0.006*car
+
+TOPIC:0.146*oil + 0.078*chang + 0.025*mile + 0.020*synthetic + 0.016*engin + 0.015*mobil + 0.010*filter + 0.009*everi + 0.008*quart + 0.007*interv + 0.007*say + 0.007*will + 0.006*can + 0.006*just + 0.006*recommend + 0.006*run + 0.005*addit + 0.005*time + 0.005*also + 0.005*think + 0.005*amsoil + 0.005*drain + 0.004*dino + 0.004*convent + 0.004*wear + 0.004*don + 0.004*add + 0.004*analysi + 0.004*burn + 0.004*see
+
+TOPIC:0.098*trade + 0.067*tax + 0.058*valu + 0.044*pay + 0.033*car + 0.020*get + 0.016*sell + 0.015*privat + 0.014*worth + 0.013*dealer + 0.011*buy + 0.011*will + 0.011*new + 0.010*can + 0.009*sale + 0.009*vehicl + 0.009*give + 0.008*parti + 0.008*book + 0.007*kbb + 0.007*just + 0.007*think + 0.007*want + 0.006*mile + 0.006*much + 0.006*differ + 0.006*state + 0.006*say + 0.006*offer + 0.006*carmax
+
+TOPIC:0.056*year + 0.031*reliabl + 0.023*qualiti + 0.021*model + 0.012*car + 0.010*say + 0.010*last + 0.009*new + 0.009*survei + 0.008*will + 0.008*averag + 0.007*improv + 0.007*ago + 0.007*now + 0.007*first + 0.007*time + 0.006*market + 0.006*long + 0.006*even + 0.006*top + 0.006*rate + 0.006*term + 0.006*make + 0.006*competit + 0.005*best + 0.005*think + 0.005*better + 0.005*past + 0.005*still + 0.005*see
+
+TOPIC:0.039*car + 0.022*buy + 0.022*offer + 0.021*buyer + 0.017*deal + 0.016*dealership + 0.016*dealer + 0.015*want + 0.015*get + 0.013*custom + 0.013*make + 0.012*will + 0.011*can + 0.011*sell + 0.011*know + 0.010*don + 0.010*like + 0.009*sale + 0.009*time + 0.009*price + 0.009*just + 0.009*salesman + 0.008*think + 0.007*walk + 0.007*busi + 0.007*give + 0.007*salesperson + 0.007*say + 0.007*negoti + 0.006*wai
+
+TOPIC:0.047*say + 0.042*tell + 0.030*call + 0.022*get + 0.020*gui + 0.020*back + 0.017*dai + 0.016*take + 0.016*come + 0.014*ask + 0.013*didn + 0.013*wend + 0.012*time + 0.012*week + 0.012*just + 0.011*want + 0.011*car + 0.010*know + 0.010*look + 0.009*drive + 0.009*work + 0.009*see + 0.009*manag + 0.008*dealer + 0.008*give + 0.008*last + 0.008*todai + 0.007*now + 0.007*talk + 0.006*anoth
+
+TOPIC:0.035*remov + 0.033*belt + 0.027*shift + 0.023*clutch + 0.020*bolt + 0.018*time + 0.015*gear + 0.014*nut + 0.014*chain + 0.013*stick + 0.012*can + 0.012*break + 0.012*screw + 0.011*mount + 0.011*shifter + 0.008*instal + 0.008*need + 0.008*get + 0.007*replac + 0.007*cabl + 0.007*just + 0.007*will + 0.007*hold + 0.007*take + 0.006*tighten + 0.006*adjust + 0.006*bracket + 0.006*pull + 0.006*wrench + 0.006*part
+
+TOPIC:0.060*monei + 0.021*will + 0.017*make + 0.016*save + 0.015*can + 0.015*pay + 0.014*spend + 0.012*profit + 0.010*busi + 0.009*invest + 0.009*cash + 0.008*lose + 0.008*much + 0.008*just + 0.008*don + 0.008*financi + 0.008*car + 0.007*buy + 0.007*take + 0.007*bank + 0.007*time + 0.007*afford + 0.007*get + 0.007*market + 0.006*think + 0.006*need + 0.006*wai + 0.006*now + 0.006*peopl + 0.006*year
+
+TOPIC:0.069*post + 0.054*read + 0.025*say + 0.022*articl + 0.018*review + 0.014*see + 0.013*just + 0.013*comment + 0.012*opinion + 0.010*write + 0.009*think + 0.008*know + 0.008*fact + 0.008*don + 0.007*can + 0.007*interest + 0.007*time + 0.006*statement + 0.006*poster + 0.006*point + 0.006*make + 0.006*word + 0.006*mention + 0.005*like + 0.005*magazin + 0.005*agre + 0.005*believ + 0.004*pleas + 0.004*new + 0.004*person
+
+TOPIC:0.110*warranti + 0.030*extend + 0.029*recal + 0.017*issu + 0.016*cover + 0.016*dealer + 0.016*problem + 0.015*vehicl + 0.012*complaint + 0.012*will + 0.012*repair + 0.011*manufactur + 0.009*lemon + 0.009*defect + 0.009*tsb + 0.008*get + 0.008*claim + 0.007*servic + 0.007*purchas + 0.005*mai + 0.005*fix + 0.005*owner + 0.005*can + 0.005*action + 0.005*year + 0.005*case + 0.005*factori + 0.005*pay + 0.005*say + 0.005*know
+
+TOPIC:0.075*rover + 0.053*land + 0.052*mini + 0.049*commerci + 0.045*british + 0.042*mirror + 0.040*ring + 0.025*cougar + 0.024*view + 0.022*boomchek + 0.017*cooper + 0.011*song + 0.010*skip + 0.009*see + 0.008*new + 0.007*think + 0.007*car + 0.007*oregonboi + 0.006*boom + 0.006*congratul + 0.005*blind + 0.005*freeland + 0.005*like + 0.005*lrgui + 0.005*just + 0.005*sing + 0.005*side + 0.004*discoveri + 0.004*clock + 0.004*yeah
+
+TOPIC:0.177*vehicl + 0.085*suv + 0.028*taho + 0.023*jeep + 0.020*suburban + 0.014*will + 0.013*need + 0.012*yukon + 0.011*like + 0.010*buy + 0.010*think + 0.009*gmc + 0.009*hummer + 0.009*want + 0.009*chevi + 0.008*cheroke + 0.008*size + 0.008*get + 0.007*new + 0.007*crossov + 0.007*larg + 0.007*can + 0.006*small + 0.006*expedit + 0.006*look + 0.006*denali + 0.006*minivan + 0.006*mdx + 0.006*escalad + 0.006*big
+
+TOPIC:0.104*car + 0.051*year + 0.050*buy + 0.025*new + 0.017*get + 0.017*old + 0.014*will + 0.013*like + 0.012*think + 0.011*can + 0.011*mile + 0.010*keep + 0.010*valu + 0.010*want + 0.010*much + 0.010*resal + 0.009*don + 0.009*just + 0.009*less + 0.008*drive + 0.008*lot + 0.008*look + 0.007*better + 0.007*sell + 0.007*good + 0.007*make + 0.006*even + 0.006*still + 0.006*time + 0.006*now
+
+TOPIC:0.125*dealer + 0.030*deal + 0.024*get + 0.021*fee + 0.020*invoic + 0.017*car + 0.013*dealership + 0.012*rebat + 0.011*local + 0.011*can + 0.011*pay + 0.009*quot + 0.009*want + 0.009*charg + 0.009*advertis + 0.008*will + 0.007*make + 0.007*just + 0.007*give + 0.007*buy + 0.007*sign + 0.006*know + 0.006*cash + 0.006*don + 0.006*say + 0.006*price + 0.006*purchas + 0.006*take + 0.006*check + 0.005*sell
+
+TOPIC:0.169*cost + 0.039*canada + 0.038*car + 0.031*import + 0.028*bill + 0.025*repair + 0.023*canadian + 0.015*dollar + 0.012*regist + 0.011*will + 0.011*get + 0.011*pay + 0.010*can + 0.009*vehicl + 0.009*new + 0.009*odomet + 0.009*buy + 0.009*save + 0.008*border + 0.008*transport + 0.007*need + 0.006*just + 0.006*per + 0.006*riv + 0.006*shipp + 0.006*total + 0.006*purchas + 0.005*expens + 0.005*much + 0.005*year
+
+TOPIC:0.068*dog + 0.041*cat + 0.037*michael + 0.031*crown + 0.022*hair + 0.021*taxi + 0.020*vic + 0.015*integra + 0.014*anim + 0.014*bone + 0.013*nail + 0.013*car + 0.011*pole + 0.010*marqui + 0.010*pet + 0.010*ghulet + 0.007*chew + 0.006*puppi + 0.006*decal + 0.006*victoria + 0.006*hit + 0.006*old + 0.006*run + 0.006*breed + 0.005*peev + 0.005*dryer + 0.005*like + 0.005*washer + 0.005*tin + 0.005*mark
+
+TOPIC:0.162*van + 0.055*convers + 0.049*minivan + 0.044*odyssei + 0.041*ventur + 0.023*montana + 0.019*mart + 0.017*vote + 0.017*wal + 0.016*tim
+ + 0.014*chevi + 0.013*sienna + 0.013*mini + 0.010*astro + 0.009*lie + 0.009*express + 0.008*heh + 0.008*silhouett + 0.007*mpv + 0.007*get + 0.007*like + 0.007*voyager + 0.006*windstar + 0.006*upland + 0.006*can + 0.005*madmanmoo + 0.005*just + 0.005*know + 0.005*look + 0.005*chikoo
+
+TOPIC:0.051*nois + 0.043*steer + 0.028*sound + 0.023*wheel + 0.019*problem + 0.018*vibrat + 0.017*front + 0.016*rattl + 0.015*hear + 0.014*like + 0.011*make + 0.011*bear + 0.010*rear + 0.009*drive + 0.009*notic + 0.009*turn + 0.009*loud + 0.009*shaft + 0.009*end + 0.008*replac + 0.008*wind + 0.007*dealer + 0.007*knock + 0.007*also + 0.007*come + 0.007*seem + 0.007*fix + 0.006*joint + 0.006*bump + 0.006*clunk
+
+TOPIC:0.256*question + 0.130*ask + 0.103*answer + 0.015*know + 0.010*isellhonda + 0.009*can + 0.008*post + 0.007*whether + 0.007*think + 0.006*don + 0.005*specif + 0.005*respons + 0.005*just + 0.005*might + 0.005*pleas + 0.005*say + 0.005*try + 0.005*get + 0.005*someon + 0.004*help + 0.004*quick + 0.004*expert + 0.004*give + 0.004*mai + 0.004*opinion + 0.003*dumb + 0.003*will + 0.003*simpl + 0.003*poll + 0.003*pose
+
+TOPIC:0.078*book + 0.050*graphicgui + 0.038*explorerx + 0.024*marin + 0.017*lol
+ + 0.016*tom + 0.014*jimbr + 0.013*oop + 0.012*doom + 0.010*ball + 0.009*premier + 0.008*ditto + 0.008*graphic + 0.008*librari + 0.007*crystal + 0.007*cowork + 0.007*yeah + 0.007*partner + 0.006*chees + 0.006*rich
+ + 0.006*amazon + 0.006*bate + 0.006*whale + 0.005*like + 0.005*wale + 0.005*adm + 0.005*vert + 0.005*harri + 0.005*nippon + 0.004*lol
+
+TOPIC:0.078*car + 0.019*old + 0.016*rust + 0.014*see + 0.013*ebai + 0.012*like + 0.010*can + 0.009*restor + 0.009*think + 0.009*worth + 0.008*look + 0.008*lot + 0.008*nice + 0.008*part + 0.007*realli + 0.007*sell + 0.007*find + 0.007*run + 0.006*seller + 0.006*year + 0.006*project + 0.006*time + 0.006*buy + 0.006*just + 0.006*origin + 0.006*bid + 0.006*drive + 0.006*even + 0.005*don + 0.005*probabl
+
+TOPIC:0.062*discuss + 0.050*topic + 0.039*board + 0.037*post + 0.030*messag + 0.028*page + 0.014*new + 0.014*welcom + 0.013*fezo + 0.012*get + 0.012*back + 0.012*click + 0.011*can + 0.010*see + 0.009*link + 0.009*will + 0.008*just + 0.008*pat + 0.007*hall + 0.007*member + 0.007*town + 0.006*try + 0.006*check + 0.006*pleas + 0.006*help + 0.006*time + 0.006*list + 0.005*read + 0.005*delet + 0.005*want
+
+TOPIC:0.044*new + 0.042*car + 0.041*wife + 0.035*love + 0.033*buy + 0.022*get + 0.021*drive + 0.018*just + 0.016*year + 0.015*will + 0.012*now + 0.011*enjoi + 0.011*happi + 0.010*like + 0.010*want + 0.010*great + 0.010*next + 0.010*think + 0.009*son + 0.008*month + 0.008*look + 0.008*time + 0.007*stickgui + 0.007*keep + 0.007*can + 0.007*nice + 0.007*maxx + 0.006*still + 0.006*realli + 0.006*last
+
+TOPIC:0.073*control + 0.031*system + 0.018*wheel + 0.015*traction + 0.013*electron + 0.012*pedal + 0.011*rear + 0.011*vehicl + 0.011*brake + 0.010*front + 0.010*can + 0.009*will + 0.009*stabil + 0.008*spin + 0.008*cruis + 0.008*throttl + 0.008*power + 0.007*engag + 0.007*lock + 0.006*driver + 0.006*acceler + 0.005*condit + 0.005*case + 0.005*time + 0.005*oper + 0.005*differenti + 0.005*activ + 0.004*comput + 0.004*mode + 0.004*mai
+
+TOPIC:0.110*tdi + 0.097*jetta + 0.080*passat + 0.053*golf + 0.034*gti + 0.026*beetl + 0.023*ruke + 0.019*rabbit + 0.017*volkswagen + 0.013*new + 0.010*shipo + 0.010*app + 0.009*glx + 0.009*motion + 0.008*reg + 0.008*shipo
+ + 0.006*touareg + 0.005*will + 0.005*get + 0.005*think + 0.005*best + 0.005*mile + 0.005*aka + 0.005*inde + 0.004*also + 0.004*know + 0.004*civic + 0.004*bpeebl + 0.004*can + 0.003*say
+
+TOPIC:0.040*leak + 0.031*water + 0.018*cover + 0.016*gasket + 0.015*seal + 0.013*hole + 0.013*plastic + 0.013*side + 0.013*floor + 0.012*windshield + 0.011*smell + 0.011*get + 0.009*rubber + 0.009*can + 0.009*head + 0.008*mat + 0.008*drain + 0.007*crack + 0.007*top + 0.007*rain + 0.007*see + 0.007*come + 0.006*carpet + 0.006*ryan
+ + 0.006*also + 0.006*cap + 0.006*tube + 0.006*just + 0.006*insid + 0.006*find
+
+TOPIC:0.230*engin + 0.031*turbo + 0.027*cylinder + 0.012*block + 0.012*valv + 0.012*liter + 0.011*motor + 0.010*power + 0.009*cyl + 0.008*make + 0.008*head + 0.008*can + 0.007*think + 0.006*know + 0.006*put + 0.006*get + 0.006*supercharg + 0.006*cam + 0.006*piston + 0.006*don + 0.005*old + 0.005*just + 0.005*much + 0.005*design + 0.005*time + 0.005*run + 0.005*build + 0.004*will + 0.004*twin + 0.004*new
+
+TOPIC:0.211*wagon + 0.116*volvo + 0.066*station + 0.041*hatchback + 0.032*hatch + 0.021*sedan + 0.016*like + 0.014*cart + 0.008*think + 0.008*look + 0.007*don + 0.007*magnum + 0.007*just + 0.006*need + 0.006*see + 0.006*sport + 0.005*call + 0.005*car + 0.005*get + 0.005*want + 0.005*avant + 0.005*util + 0.005*estat + 0.005*can + 0.003*stigma + 0.003*small + 0.003*versatil + 0.003*drive + 0.003*realli + 0.003*overrat
+
+TOPIC:0.068*insur + 0.056*compani + 0.024*pay + 0.019*damag + 0.019*claim + 0.018*accid + 0.017*contract + 0.016*will + 0.014*polici + 0.011*fault + 0.010*total + 0.009*can + 0.009*coverag + 0.008*file + 0.008*gap + 0.007*lawyer + 0.007*cover + 0.006*get + 0.006*mai + 0.006*loss + 0.006*liabil + 0.006*agent + 0.006*case + 0.005*cancel + 0.005*deduct + 0.005*driver + 0.005*state + 0.005*collis + 0.004*bankruptci + 0.004*premium
+
+TOPIC:0.057*kei + 0.044*trooper + 0.037*lock + 0.028*isuzu + 0.028*start + 0.025*problem + 0.020*ignit + 0.016*remot + 0.015*secur + 0.015*mike
+ + 0.014*work + 0.013*will + 0.013*starter + 0.012*switch + 0.012*rodeo + 0.012*turn + 0.012*get + 0.010*can + 0.010*alero + 0.009*alarm + 0.009*axiom + 0.008*help + 0.008*car + 0.007*system + 0.007*just + 0.007*unlock + 0.007*time + 0.007*win + 0.007*try + 0.007*find
+
+TOPIC:0.170*tire + 0.014*snow + 0.014*wheel + 0.010*wear + 0.010*michelin + 0.010*set + 0.010*pressur + 0.010*will + 0.010*size + 0.009*get + 0.009*balanc + 0.009*rim + 0.008*rotat + 0.007*spare + 0.007*tread + 0.007*new + 0.007*psi + 0.006*road + 0.006*can + 0.006*align + 0.006*put + 0.006*goodyear + 0.006*winter + 0.006*also + 0.006*better + 0.006*replac + 0.005*rate + 0.005*differ + 0.005*traction + 0.005*fireston
+
+TOPIC:0.033*window + 0.028*bumper + 0.021*mile + 0.020*roof + 0.019*condit + 0.018*paint + 0.018*rear + 0.017*interior + 0.014*new + 0.014*bodi + 0.014*scratch + 0.013*trade + 0.012*tire + 0.012*good + 0.011*ding + 0.010*thank + 0.010*door + 0.010*front + 0.010*dent + 0.009*damag + 0.009*power + 0.009*exterior + 0.009*look + 0.008*side + 0.008*black + 0.007*glass + 0.007*clean + 0.007*rack + 0.007*car + 0.006*tint
+
+TOPIC:0.248*price + 0.019*msrp + 0.019*pay + 0.017*discount + 0.014*lower + 0.014*sell + 0.013*higher + 0.012*high + 0.011*less + 0.010*sticker + 0.010*can + 0.010*market + 0.009*buy + 0.009*much + 0.009*get + 0.008*will + 0.008*low + 0.008*cost + 0.008*ring + 0.008*compar + 0.007*see + 0.007*base + 0.007*differ + 0.006*around + 0.006*car + 0.006*seem + 0.006*just + 0.005*even + 0.005*model + 0.005*list
+
+TOPIC:0.046*road + 0.040*trip + 0.016*take + 0.015*drive + 0.013*get + 0.013*back + 0.013*weekend + 0.011*hill + 0.011*hour + 0.011*travel + 0.011*time + 0.011*mile + 0.010*mountain + 0.010*long + 0.009*home + 0.009*town + 0.009*dai + 0.008*see + 0.008*around + 0.008*wai + 0.008*rout + 0.007*just + 0.006*area + 0.006*citi + 0.006*fly + 0.006*vacat + 0.006*countri + 0.006*place + 0.006*lot + 0.005*great
+
+TOPIC:0.025*don + 0.019*know + 0.017*think + 0.017*just + 0.014*like + 0.013*can + 0.013*jmonro + 0.012*richard + 0.012*peopl + 0.011*say + 0.010*stori + 0.010*talk + 0.009*get + 0.009*thing + 0.009*someon + 0.008*person + 0.008*snakeweasel + 0.008*make + 0.008*gui + 0.007*time + 0.007*richard
+ + 0.007*phone + 0.007*want + 0.007*see + 0.006*driver + 0.006*wai + 0.006*realli + 0.006*never + 0.006*drink + 0.005*take
+
+TOPIC:0.054*convert + 0.051*coup + 0.037*car + 0.022*corvett + 0.020*top + 0.017*think + 0.017*classic + 0.016*like + 0.013*look + 0.013*sedan + 0.012*see + 0.009*hardtop + 0.009*door + 0.009*rare + 0.008*bird + 0.008*old + 0.007*nice + 0.007*mustang + 0.007*chevi + 0.007*year + 0.007*mont + 0.006*cutlass + 0.006*vett + 0.006*collect + 0.006*model + 0.006*andr + 0.005*just + 0.005*realli + 0.005*carlo + 0.005*pretti
+
+TOPIC:0.203*manual + 0.088*automat + 0.050*auto + 0.038*stick + 0.030*speed + 0.017*mode + 0.015*shift + 0.014*owner + 0.011*mackabe + 0.010*drive + 0.010*dsg + 0.009*philli + 0.009*spd + 0.009*nippononli + 0.006*select + 0.006*nyc + 0.006*avail + 0.006*boaz + 0.005*car + 0.005*horn + 0.005*shelbi + 0.004*cobra + 0.004*slushbox + 0.004*cdnpinhead + 0.004*six + 0.004*can + 0.004*queen + 0.004*sport + 0.004*prefer + 0.004*smg
+
+TOPIC:0.139*test + 0.065*hyundai + 0.041*sonata + 0.030*kia + 0.024*crash + 0.021*elantra + 0.018*safeti + 0.017*car + 0.016*side + 0.015*airbag + 0.011*drive + 0.011*star + 0.011*optima + 0.010*backi + 0.009*result + 0.009*rate + 0.009*comparison + 0.008*accent + 0.008*impact + 0.006*see + 0.006*new + 0.006*iih + 0.006*santa + 0.006*better + 0.006*compar + 0.006*also + 0.005*get + 0.005*rio + 0.005*think + 0.005*like
+
+TOPIC:0.082*filter + 0.035*aurora + 0.034*part + 0.033*store + 0.023*tool + 0.018*box + 0.015*paper + 0.013*make + 0.013*kit + 0.012*oem + 0.012*air + 0.010*can + 0.010*buy + 0.010*walmart + 0.008*find + 0.007*auto + 0.007*differ + 0.006*aftermarket + 0.006*just + 0.006*get + 0.006*brand + 0.006*also + 0.006*fit + 0.006*local + 0.006*fram + 0.006*instal + 0.006*boi + 0.005*see + 0.005*know + 0.005*think
+
+TOPIC:0.223*truck + 0.031*cab + 0.030*chevi + 0.026*silverado + 0.024*pickup + 0.023*ton + 0.019*bed + 0.014*get + 0.011*gmc + 0.010*will + 0.010*haul + 0.010*like + 0.010*duti + 0.009*new + 0.009*buy + 0.008*crew + 0.008*ford + 0.008*can + 0.007*look + 0.007*think + 0.007*want + 0.007*ext + 0.007*full + 0.007*just + 0.007*need + 0.007*sierra + 0.006*size + 0.006*don + 0.005*know + 0.005*extend
+
+TOPIC:0.078*bmw + 0.050*lexu + 0.038*audi + 0.034*car + 0.025*seri + 0.024*luxuri + 0.014*infin + 0.012*porsch + 0.010*merced + 0.010*will + 0.009*perform + 0.009*like + 0.009*sport + 0.008*sedan + 0.008*think + 0.008*german + 0.008*class + 0.007*new + 0.006*even + 0.006*can + 0.006*jaguar + 0.006*just + 0.005*brand + 0.005*acura + 0.005*make + 0.005*better + 0.004*drive + 0.004*say + 0.004*much + 0.004*also
+
+TOPIC:0.214*brake + 0.046*rotor + 0.043*pad + 0.027*qbrozen + 0.019*front + 0.018*rear + 0.015*suzuki + 0.012*shoe + 0.012*drum + 0.012*tracker + 0.011*calip + 0.011*master + 0.010*replac + 0.010*disc + 0.010*wear + 0.009*warp + 0.008*pedal + 0.008*new + 0.008*wheel + 0.007*stop + 0.007*need + 0.006*cylinder + 0.006*just + 0.005*bleed + 0.005*get + 0.005*turn + 0.005*problem + 0.004*car + 0.004*job + 0.004*work
+
+TOPIC:0.088*get + 0.030*just + 0.022*back + 0.022*like + 0.016*think + 0.015*thing + 0.013*realli + 0.012*can + 0.011*don + 0.011*someth + 0.011*now + 0.011*take + 0.010*car + 0.010*time + 0.009*want + 0.009*know + 0.009*right + 0.009*put + 0.008*wai + 0.008*didn + 0.008*littl + 0.007*try + 0.007*still + 0.006*see + 0.006*come + 0.006*around + 0.006*rid + 0.006*even + 0.006*work + 0.006*look
+
+TOPIC:0.120*servic + 0.081*custom + 0.032*name + 0.031*send + 0.029*email + 0.026*dealership + 0.020*contact + 0.018*address + 0.017*can + 0.016*vin + 0.016*depart + 0.015*mail + 0.015*inform + 0.013*assist + 0.011*pleas + 0.011*get + 0.011*call + 0.008*number + 0.008*vehicl + 0.007*letter + 0.007*check + 0.007*request + 0.006*provid + 0.006*dealer + 0.006*will + 0.006*look + 0.006*help + 0.006*dept + 0.006*receiv + 0.006*phone
+
+TOPIC:0.036*low + 0.036*terri + 0.027*mile + 0.016*clean + 0.015*auction + 0.015*get + 0.015*around + 0.014*nice + 0.013*like + 0.012*right + 0.012*super + 0.012*maybe + 0.011*see + 0.011*retail + 0.010*ish + 0.010*littl + 0.010*dealer + 0.009*might + 0.009*trade + 0.009*know + 0.009*look + 0.008*think + 0.008*high + 0.008*vehicl + 0.008*figur + 0.007*kinda + 0.007*say + 0.007*bill
+ + 0.007*ask + 0.007*side
+
+TOPIC:0.042*live + 0.029*winter + 0.025*area + 0.024*weather + 0.021*summer + 0.017*cold + 0.014*dai + 0.013*snow + 0.013*south + 0.012*get + 0.012*year + 0.011*florida + 0.011*degre + 0.010*last + 0.010*north + 0.008*see + 0.008*time + 0.007*season + 0.007*west + 0.007*coast + 0.007*east + 0.006*texa + 0.006*will + 0.006*california + 0.006*central + 0.006*week + 0.005*warm + 0.005*citi + 0.005*southern + 0.005*around
+
+TOPIC:0.163*diesel + 0.027*fuel + 0.020*emiss + 0.015*will + 0.012*gasolin + 0.009*car + 0.009*engin + 0.009*get + 0.009*hybrid + 0.009*clean + 0.008*can + 0.007*gasser + 0.007*pollut + 0.006*like + 0.006*carb + 0.006*new + 0.006*vehicl + 0.006*even + 0.006*less + 0.006*europ + 0.006*make + 0.005*usa + 0.005*gagric + 0.005*state + 0.005*think + 0.005*ruke + 0.005*standard + 0.005*also + 0.005*biodiesel + 0.004*avail
+
+TOPIC:0.057*design + 0.052*escap + 0.037*honda + 0.027*frame + 0.027*vehicl + 0.026*crv + 0.022*pilot + 0.021*fire + 0.018*model + 0.017*bodi + 0.016*four + 0.009*chassi + 0.009*structur + 0.008*seri + 0.008*scape + 0.008*differ + 0.008*compon + 0.007*odi + 0.007*tribut + 0.006*build + 0.006*recal + 0.006*also + 0.006*two + 0.005*revis + 0.005*engin + 0.004*base + 0.004*version + 0.004*safeti + 0.004*noneth + 0.004*bagg
+
+TOPIC:0.102*grand + 0.095*pontiac + 0.049*buick + 0.034*gto + 0.029*aztek + 0.028*prix + 0.024*bonnevil + 0.023*chevrolet + 0.015*gtp + 0.014*gxp + 0.014*car + 0.011*chevi + 0.011*will + 0.009*solstic + 0.007*ssei + 0.007*divis + 0.007*new + 0.007*lutz + 0.006*holden + 0.006*year + 0.006*oldsmobil + 0.006*model + 0.005*impala + 0.005*see + 0.005*bonni + 0.005*firebird + 0.005*camaro + 0.005*think + 0.005*torrent + 0.005*cavali
+
+TOPIC:0.036*car + 0.026*think + 0.019*like + 0.014*though + 0.013*just + 0.011*back + 0.011*around + 0.010*old + 0.009*rememb + 0.009*still + 0.009*actual + 0.008*big + 0.008*get + 0.008*pretti + 0.008*someth + 0.008*bite + 0.008*probabl + 0.007*realli + 0.007*much + 0.007*didn + 0.007*time + 0.007*seem + 0.007*even + 0.007*make + 0.007*year + 0.007*plymouth + 0.006*andr + 0.006*guess + 0.006*thing + 0.006*chevi
+
+TOPIC:0.259*ford + 0.081*chrysler + 0.037*tauru + 0.027*focu + 0.023*mercuri + 0.023*lincoln + 0.021*explor + 0.018*fusion + 0.012*new + 0.009*sebr + 0.008*like + 0.008*sabl + 0.008*car + 0.007*get + 0.007*escort + 0.007*think + 0.005*contour + 0.005*year + 0.005*now + 0.005*mustang + 0.005*buy + 0.005*flex + 0.005*look + 0.004*freestyle + 0.004*town + 0.004*edg + 0.004*fiesta + 0.004*still + 0.004*eclips + 0.004*don
+
+TOPIC:0.148*camri + 0.078*ride + 0.057*malibu + 0.051*shock + 0.046*suspens + 0.036*spring + 0.017*accord + 0.017*strut + 0.012*soft + 0.011*new + 0.009*firm + 0.008*fusion + 0.008*better + 0.008*like + 0.007*handl + 0.007*upgrad + 0.007*will + 0.007*rear + 0.006*stiff + 0.006*xle + 0.005*also + 0.005*harsh + 0.005*benchmark + 0.005*improv + 0.005*differ + 0.005*bump + 0.004*think + 0.004*make + 0.004*smooth + 0.004*stiffer
+
+TOPIC:0.025*car + 0.024*paint + 0.022*wash + 0.020*wax + 0.015*zaino + 0.012*product + 0.012*coat + 0.011*will + 0.011*clean + 0.011*can + 0.011*appli + 0.009*clai + 0.009*remov + 0.009*finish + 0.009*just + 0.009*polish + 0.008*get + 0.008*dry + 0.007*time + 0.007*like + 0.007*shine + 0.007*cleaner + 0.007*work + 0.007*protect + 0.006*surfac + 0.006*water + 0.006*look + 0.006*also + 0.006*towel + 0.005*don
+
+TOPIC:0.017*fuel + 0.016*will + 0.015*oil + 0.012*energi + 0.012*ethanol + 0.011*govern + 0.010*million + 0.009*year + 0.009*tax + 0.008*increas + 0.007*produc + 0.007*gasolin + 0.007*make + 0.006*demand + 0.006*can + 0.006*suppli + 0.006*billion + 0.005*product + 0.005*countri + 0.005*per + 0.005*say + 0.005*cost + 0.004*plant + 0.004*gallon + 0.004*reduc + 0.004*now + 0.004*need + 0.004*much + 0.004*less + 0.004*corn
+
+TOPIC:0.184*sale + 0.095*sell + 0.024*fleet + 0.022*model + 0.020*incent + 0.017*month + 0.016*unit + 0.016*titl + 0.014*year + 0.013*new + 0.011*will + 0.010*number + 0.009*volum + 0.009*vehicl + 0.008*last + 0.008*car + 0.008*see + 0.007*inventori + 0.007*rebat + 0.006*figur + 0.006*mai + 0.006*increas + 0.005*stori + 0.005*total + 0.005*rental + 0.005*juli + 0.004*lot + 0.004*june + 0.004*januari + 0.004*still
+
+TOPIC:0.116*door + 0.059*park + 0.050*open + 0.032*hous + 0.023*garag + 0.019*side + 0.014*close + 0.014*lot + 0.013*street + 0.012*car + 0.011*driver + 0.011*window + 0.009*see + 0.008*drivewai + 0.008*just + 0.008*neighbor + 0.008*leave + 0.008*get + 0.007*work + 0.007*back + 0.007*can + 0.006*place + 0.006*slide + 0.006*spot + 0.006*tree + 0.006*two + 0.005*panel + 0.005*home + 0.005*neighborhood + 0.005*build
+
+TOPIC:0.142*number + 0.041*old + 0.034*epa + 0.025*gagric + 0.021*san + 0.019*data + 0.018*real + 0.015*year + 0.015*estim + 0.012*oldsmobil + 0.011*new + 0.011*chicago + 0.010*accur + 0.010*gari + 0.010*john + 0.009*world + 0.009*diego + 0.009*get + 0.008*figur + 0.008*say + 0.008*know + 0.008*combin + 0.007*touareg + 0.007*sampl + 0.007*rate + 0.007*show + 0.007*actual + 0.005*like + 0.005*vehicl + 0.005*eight
+
+TOPIC:0.104*nissan + 0.095*dodg + 0.052*tundra + 0.029*ranger + 0.029*tacoma + 0.025*ram + 0.018*caravan + 0.018*sienna + 0.017*dakota + 0.016*runner + 0.015*pathfind + 0.013*quad + 0.012*frontier + 0.011*murano + 0.009*quest + 0.008*durango + 0.008*ridgelin + 0.008*colorado + 0.007*titan + 0.007*calib + 0.007*mitsubishi + 0.007*new + 0.006*hemi + 0.006*size + 0.006*better + 0.006*full + 0.006*owner + 0.006*outland + 0.006*vinc + 0.005*truck
+
+TOPIC:0.037*product + 0.032*american + 0.032*market + 0.028*car + 0.021*build + 0.021*make + 0.018*brand + 0.016*manufactur + 0.016*compani + 0.015*japanes + 0.013*sell + 0.013*will + 0.012*domest + 0.011*buy + 0.011*honda + 0.009*japan + 0.009*america + 0.009*vehicl + 0.008*import + 0.007*european + 0.007*foreign + 0.006*auto + 0.006*qualiti + 0.006*toyota + 0.006*mani + 0.005*part + 0.005*automak + 0.005*big + 0.005*europ + 0.005*world
+
+TOPIC:0.094*look + 0.063*wheel + 0.041*like + 0.038*front + 0.023*see + 0.022*rear + 0.015*grill + 0.013*hood + 0.013*chrome + 0.012*end + 0.011*wood + 0.011*think + 0.010*side + 0.008*fender + 0.008*just + 0.008*ugli + 0.007*steel + 0.006*differ + 0.006*new + 0.006*also + 0.006*trim + 0.006*aluminum + 0.005*car + 0.005*plastic + 0.005*make + 0.005*angl + 0.005*badg + 0.004*nice + 0.004*shape + 0.004*big
+
+TOPIC:0.088*mile + 0.084*replac + 0.033*repair + 0.029*mainten + 0.021*year + 0.021*part + 0.018*shop + 0.017*need + 0.017*time + 0.014*new + 0.013*cost + 0.012*servic + 0.012*mechan + 0.010*dealer + 0.010*warranti + 0.009*last + 0.009*free + 0.008*wear + 0.007*expens + 0.007*item + 0.007*car + 0.007*labor + 0.007*will + 0.006*origin + 0.006*everi + 0.006*buy + 0.006*owner + 0.006*just + 0.006*schedul + 0.005*tear
+
+TOPIC:0.052*fill + 0.045*intrigu + 0.044*tank + 0.043*per + 0.041*lemko + 0.040*gallon + 0.038*andr + 0.033*cent + 0.026*vibe + 0.018*station + 0.013*regular + 0.013*chevi + 0.013*gal + 0.011*think + 0.010*last + 0.010*vega + 0.009*octan + 0.009*just + 0.009*get + 0.008*now + 0.008*still + 0.008*dai + 0.007*equinox + 0.007*todai + 0.006*caddi + 0.006*week + 0.006*premium + 0.006*around + 0.005*see + 0.005*time
+
+TOPIC:0.110*priu + 0.046*smart + 0.029*hybrid + 0.027*platform + 0.026*will + 0.021*insight + 0.021*logic + 0.020*genesi + 0.018*joe + 0.018*captain + 0.014*say + 0.013*think + 0.012*kdhspyder + 0.010*can + 0.009*louiswei + 0.009*make + 0.008*share + 0.008*see + 0.007*point + 0.007*hch + 0.006*just + 0.006*socala + 0.006*chair + 0.006*agre + 0.006*don + 0.005*get + 0.005*know + 0.005*tch + 0.005*base + 0.005*holi
+
+TOPIC:0.061*start + 0.022*engin + 0.022*car + 0.021*drive + 0.018*time + 0.015*run + 0.015*problem + 0.014*stop + 0.013*will + 0.012*idl + 0.012*light + 0.011*come + 0.011*happen + 0.011*just + 0.010*fine + 0.010*turn + 0.009*second + 0.009*seem + 0.008*shut + 0.008*stall + 0.008*minut + 0.008*back + 0.008*get + 0.008*gear + 0.008*like + 0.008*mile + 0.007*shift + 0.007*acceler + 0.007*notic + 0.007*first
+
+TOPIC:0.036*system + 0.032*radio + 0.017*can + 0.017*unit + 0.016*instal + 0.013*nav + 0.012*comput + 0.012*screen + 0.010*displai + 0.010*work + 0.010*player + 0.010*button + 0.010*speaker + 0.009*stereo + 0.009*get + 0.009*phone + 0.009*dvd + 0.008*sound + 0.008*will + 0.007*navig + 0.007*factori + 0.007*just + 0.006*like + 0.006*set + 0.006*also + 0.006*plai + 0.006*softwar + 0.006*listen + 0.005*music + 0.005*audio
+
+TOPIC:0.148*thank + 0.044*site + 0.043*info + 0.040*help + 0.028*anyone + 0.025*know + 0.018*advic + 0.016*find + 0.016*appreci + 0.016*web + 0.014*inform + 0.013*appreciat + 0.012*look + 0.012*can + 0.011*post + 0.011*will + 0.010*need + 0.010*input + 0.009*advanc + 0.009*repli + 0.008*give + 0.008*suggest + 0.008*check + 0.007*pleas + 0.007*get + 0.007*think + 0.007*also + 0.007*respons + 0.006*much + 0.006*wonder
+
+TOPIC:0.067*color + 0.061*black + 0.047*red + 0.042*blue + 0.040*white + 0.028*green + 0.027*see + 0.025*look + 0.025*car + 0.024*mustang + 0.020*silver + 0.019*dark + 0.015*like + 0.013*yellow + 0.012*interior + 0.010*camaro + 0.009*grai + 0.009*new + 0.008*nice + 0.008*orang + 0.008*metal + 0.007*grei + 0.007*paint + 0.007*brown + 0.007*two + 0.007*bright + 0.007*spott + 0.006*think + 0.006*tone + 0.006*gold
+
+TOPIC:0.099*forum + 0.053*steve + 0.043*thread + 0.040*search + 0.039*find + 0.022*post + 0.016*host + 0.015*can + 0.012*just + 0.012*think + 0.012*kirsti + 0.011*googl + 0.011*host
+ + 0.011*like + 0.010*don + 0.010*know + 0.009*see + 0.008*tidest + 0.008*want + 0.007*look + 0.007*read + 0.007*edmund + 0.006*try + 0.006*new + 0.006*discuss + 0.006*lot + 0.005*might + 0.005*help + 0.005*anoth + 0.005*interest
+
+TOPIC:0.363*toyota + 0.051*corolla + 0.023*highland + 0.023*like + 0.019*honda + 0.017*echo + 0.017*matrix + 0.017*scion + 0.016*cruiser + 0.015*rav + 0.014*look + 0.013*yari + 0.012*neon + 0.010*celica + 0.010*see + 0.008*runner + 0.007*avalon + 0.007*solara + 0.006*just + 0.006*sienna + 0.005*lexu + 0.005*think + 0.004*say + 0.004*supra + 0.004*seem + 0.004*get + 0.004*tercel + 0.004*new + 0.003*sequoia + 0.003*lot
+
+TOPIC:0.081*regard + 0.047*merced + 0.046*class + 0.024*benz + 0.022*race + 0.018*ow
+ + 0.014*merc + 0.013*tagman + 0.012*new + 0.010*cruze + 0.010*best + 0.010*will + 0.010*dewei + 0.009*tagman
+ + 0.009*car + 0.009*see + 0.008*like + 0.008*circlew + 0.007*hpowder + 0.007*lexusgui + 0.006*still + 0.006*tag + 0.006*think + 0.006*tm
+ + 0.005*now + 0.005*kyfdx
+ + 0.005*helm + 0.005*win + 0.005*agre + 0.005*robr
+
+TOPIC:0.099*hybrid + 0.068*batteri + 0.048*electr + 0.025*technolog + 0.023*will + 0.018*volt + 0.016*power + 0.013*charg + 0.013*motor + 0.012*pack + 0.011*vehicl + 0.010*priu + 0.009*system + 0.008*can + 0.008*gener + 0.007*car + 0.005*cell + 0.005*current + 0.004*effici + 0.004*need + 0.004*think + 0.004*make + 0.004*cycle + 0.004*ring + 0.004*cost + 0.004*plug + 0.004*energi + 0.004*much + 0.004*time + 0.004*recharg
+
+TOPIC:0.121*awd + 0.076*acura + 0.053*fwd + 0.049*rwd + 0.031*snow + 0.024*tsx + 0.022*studebak + 0.019*car + 0.016*roadburn + 0.011*packard + 0.011*mdx + 0.011*drive + 0.008*avanti + 0.007*get + 0.006*hawk + 0.006*bimmer + 0.005*time + 0.005*like + 0.005*rdx + 0.005*think + 0.005*quattro + 0.004*model + 0.004*system + 0.004*year + 0.004*make + 0.004*lark + 0.004*can + 0.004*stude + 0.004*even + 0.004*fedlawman
+
+TOPIC:0.010*public + 0.009*can + 0.009*peopl + 0.008*studi + 0.007*phone + 0.007*cell + 0.006*will + 0.006*mani + 0.006*point + 0.005*law + 0.005*say + 0.005*think + 0.005*make + 0.005*don + 0.004*believ + 0.004*fact + 0.004*even + 0.004*polit + 0.004*caus + 0.004*train + 0.004*accid + 0.004*time + 0.004*like + 0.004*need + 0.004*see + 0.004*driver + 0.004*person + 0.004*reason + 0.004*issu + 0.004*hand
+
+TOPIC:0.095*drive + 0.060*car + 0.037*feel + 0.021*handl + 0.020*like + 0.015*fun + 0.013*much + 0.012*can + 0.012*better + 0.011*driver + 0.011*differ + 0.011*road + 0.009*test + 0.009*just + 0.008*make + 0.008*don + 0.008*think + 0.007*realli + 0.007*comfort + 0.007*experi + 0.006*even + 0.006*perform + 0.006*say + 0.006*great + 0.006*thing + 0.005*ride + 0.005*wai + 0.005*good + 0.005*safe + 0.004*mani
+
+TOPIC:0.031*year + 0.027*kid + 0.019*famili + 0.018*school + 0.017*dad + 0.017*friend + 0.015*get + 0.015*home + 0.013*work + 0.013*time + 0.013*old + 0.011*colleg + 0.011*mom + 0.010*brother + 0.009*dai + 0.009*parent + 0.008*young + 0.008*father + 0.008*ago + 0.008*rememb + 0.007*buy + 0.007*back + 0.007*retir + 0.007*live + 0.007*two + 0.007*mother + 0.006*still + 0.006*hous + 0.006*now + 0.006*drive
+
+TOPIC:0.036*torqu + 0.031*power + 0.027*engin + 0.024*rpm + 0.021*fuel + 0.019*perform + 0.015*gear + 0.012*speed + 0.012*will + 0.011*increas + 0.011*high + 0.011*ratio + 0.011*higher + 0.011*horsepow + 0.010*can + 0.010*effici + 0.009*low + 0.008*differ + 0.008*lower + 0.007*time + 0.007*run + 0.006*less + 0.006*much + 0.006*make + 0.006*octan + 0.006*better + 0.006*also + 0.006*acceler + 0.005*economi + 0.005*peak
+
+TOPIC:0.068*peopl + 0.034*make + 0.022*don + 0.019*car + 0.018*mani + 0.016*buy + 0.015*think + 0.015*can + 0.013*just + 0.012*like + 0.011*want + 0.011*decis + 0.010*will + 0.009*say + 0.009*thing + 0.008*simpli + 0.008*know + 0.008*even + 0.007*reason + 0.007*time + 0.007*get + 0.007*point + 0.006*need + 0.006*never + 0.006*problem + 0.006*choic + 0.005*better + 0.005*bad + 0.005*mean + 0.005*wai
+
+TOPIC:0.087*pictur + 0.067*link + 0.049*pic + 0.031*bike + 0.031*photo + 0.027*show + 0.025*post + 0.025*see + 0.023*appl + 0.019*websit + 0.017*video + 0.015*can + 0.015*dave + 0.014*motorcycl + 0.014*look + 0.012*imag + 0.008*take + 0.007*imidazol + 0.007*mac + 0.006*like + 0.006*bicycle + 0.006*shoot + 0.005*work + 0.005*orang + 0.005*rider + 0.005*try + 0.005*get + 0.005*know + 0.005*smith + 0.005*just
+
+TOPIC:0.088*order + 0.077*wait + 0.049*will + 0.024*get + 0.023*vue + 0.022*new + 0.021*week + 0.014*deliveri + 0.014*ion + 0.014*date + 0.013*saturn + 0.012*arriv + 0.012*now + 0.011*next + 0.011*build + 0.010*just + 0.010*month + 0.010*see + 0.010*can + 0.010*want + 0.009*know + 0.009*dealer + 0.009*come + 0.008*yet + 0.008*take + 0.007*first + 0.007*till + 0.006*soon + 0.006*hope + 0.006*avail
+
+TOPIC:0.180*transmiss + 0.064*tranni + 0.055*fluid + 0.040*tran + 0.024*gear + 0.023*shift + 0.022*automat + 0.021*speed + 0.017*manual + 0.013*auto + 0.012*cvt + 0.012*problem + 0.012*flush + 0.010*transfer + 0.009*failur + 0.009*case + 0.008*chang + 0.008*rebuild + 0.008*rebuilt + 0.007*mile + 0.007*clutch + 0.006*new + 0.006*atf + 0.006*overdr + 0.006*replac + 0.006*need + 0.006*know + 0.005*say + 0.005*slipp + 0.005*fail
+
+TOPIC:0.033*fuel + 0.026*wire + 0.025*sensor + 0.022*problem + 0.022*pump + 0.021*plug + 0.020*check + 0.019*code + 0.019*replac + 0.012*engin + 0.011*run + 0.010*start + 0.009*pressur + 0.009*can + 0.008*spark + 0.008*connect + 0.008*bad + 0.008*get + 0.008*valv + 0.007*will + 0.007*caus + 0.006*injector + 0.006*coil + 0.006*help + 0.006*find + 0.006*gaug + 0.006*also + 0.006*light + 0.005*fuse + 0.005*chang
+
+TOPIC:0.104*problem + 0.090*car + 0.035*fix + 0.022*dealer + 0.019*issu + 0.017*take + 0.012*time + 0.012*buy + 0.011*know + 0.011*new + 0.010*get + 0.010*dealership + 0.010*rental + 0.009*now + 0.009*say + 0.009*mechan + 0.009*tell + 0.008*never + 0.008*dai + 0.008*find + 0.008*drive + 0.008*just + 0.008*back + 0.007*month + 0.007*sinc + 0.007*mile + 0.007*week + 0.007*can + 0.006*work + 0.006*shop
+
+TOPIC:0.045*speed + 0.026*mph + 0.026*lane + 0.023*traffic + 0.019*driver + 0.019*drive + 0.018*limit + 0.018*pass + 0.016*road + 0.016*right + 0.015*car + 0.015*leave + 0.014*slow + 0.010*get + 0.010*turn + 0.009*see + 0.008*time + 0.008*just + 0.008*behind + 0.007*highwai + 0.007*move + 0.007*wai + 0.007*stop + 0.007*can + 0.006*fast + 0.006*make + 0.006*peopl + 0.005*faster + 0.005*pull + 0.005*hit
+
+TOPIC:0.040*car + 0.039*fintail + 0.027*shiftright + 0.024*andi + 0.016*think + 0.015*see + 0.015*like + 0.011*look + 0.011*movi + 0.010*earli + 0.010*ferrari + 0.009*still + 0.009*fiat + 0.007*make + 0.006*model + 0.006*know + 0.006*shifti + 0.006*right + 0.006*alfa + 0.006*old + 0.005*late + 0.005*name + 0.005*texas + 0.005*maybe + 0.005*guess + 0.005*can + 0.005*mysteri + 0.005*rememb + 0.005*yep + 0.004*littl
+
+TOPIC:0.152*light + 0.049*turn + 0.041*switch + 0.025*work + 0.023*dash + 0.019*headlight + 0.014*come + 0.013*bulb + 0.013*signal + 0.011*flash + 0.010*fuse + 0.009*blower + 0.008*problem + 0.008*fog + 0.008*instrument + 0.007*tail + 0.007*can + 0.007*panel + 0.007*replac + 0.007*side + 0.007*check + 0.006*just + 0.006*beam + 0.006*warn + 0.006*lamp + 0.006*cluster + 0.006*leave + 0.005*daewoo + 0.005*button + 0.005*control
+
+TOPIC:0.069*state + 0.035*law + 0.023*ticket + 0.020*licens + 0.017*offic + 0.016*polic + 0.016*plate + 0.013*rule + 0.012*camera + 0.011*court + 0.010*cop + 0.009*legal + 0.008*judg + 0.008*radar + 0.007*get + 0.007*say + 0.007*enforc + 0.007*illeg + 0.007*case + 0.007*point + 0.006*violat + 0.006*counti + 0.006*record + 0.006*can + 0.005*california + 0.005*driver + 0.005*citi + 0.005*fine + 0.004*know + 0.004*requir
+
+TOPIC:0.097*saturn + 0.081*cadillac + 0.057*saab + 0.034*kyfdx + 0.029*rocky
+ + 0.029*aura + 0.022*buick + 0.017*dieselon + 0.016*uplandergui + 0.015*outlook + 0.015*sky + 0.014*car + 0.014*caddi + 0.013*wiper + 0.011*opel + 0.011*vetteefp + 0.011*enclav + 0.010*blade + 0.009*bpizzuti + 0.009*srx + 0.008*anythngbutgm + 0.008*make + 0.008*new + 0.007*mexico + 0.007*buy + 0.006*miata + 0.006*build + 0.006*astra + 0.006*brand + 0.005*aero
+
+TOPIC:0.095*mpg + 0.053*mileag + 0.053*get + 0.037*drive + 0.037*mile + 0.030*highwai + 0.029*fuel + 0.024*averag + 0.018*citi + 0.016*economi + 0.016*better + 0.011*mph + 0.010*trip + 0.010*commut + 0.009*car + 0.007*around + 0.007*per + 0.006*tank + 0.006*much + 0.006*less + 0.006*speed + 0.006*will + 0.006*gallon + 0.005*can + 0.005*just + 0.005*town + 0.005*epa + 0.004*even + 0.004*rate + 0.004*hwy
+
+TOPIC:0.015*like + 0.013*man + 0.012*world + 0.011*global + 0.011*warm + 0.010*just + 0.010*think + 0.009*theori + 0.008*earth + 0.007*war + 0.007*see + 0.007*know + 0.007*can + 0.007*watch + 0.006*make + 0.006*now + 0.005*say + 0.005*rich + 0.005*don + 0.005*real + 0.005*thing + 0.005*get + 0.005*scienc + 0.004*planet + 0.004*gui + 0.004*big + 0.004*right + 0.004*climat + 0.003*jet + 0.003*god
+
+TOPIC:0.042*interior + 0.029*subaru + 0.029*nice + 0.028*look + 0.027*like + 0.015*better + 0.012*think + 0.012*drive + 0.012*forest + 0.012*realli + 0.011*much + 0.011*get + 0.011*outback + 0.010*seem + 0.010*car + 0.010*bite + 0.010*impress + 0.009*legaci + 0.009*though + 0.009*also + 0.009*just + 0.008*new + 0.008*great + 0.008*materi + 0.008*cheap + 0.007*good + 0.007*feel + 0.007*qualiti + 0.007*pretti + 0.007*littl
+
+TOPIC:0.252*good + 0.040*luck + 0.030*get + 0.028*know + 0.020*now + 0.019*like + 0.016*pretti + 0.015*can + 0.015*sound + 0.015*deal + 0.014*thing + 0.014*sure + 0.013*will + 0.013*just + 0.012*think + 0.012*work + 0.011*don + 0.011*bad + 0.011*hear + 0.009*make + 0.008*look + 0.008*idea + 0.008*realli + 0.008*right + 0.007*best + 0.007*better + 0.007*hope + 0.006*want + 0.006*need + 0.006*mai
+
+TOPIC:0.044*style + 0.040*look + 0.031*like + 0.027*new + 0.025*car + 0.018*think + 0.018*design + 0.014*see + 0.012*impala + 0.011*better + 0.010*just + 0.010*buick + 0.009*will + 0.008*old + 0.008*much + 0.007*cobalt + 0.007*model + 0.007*current + 0.007*say + 0.007*realli + 0.007*interior + 0.007*lacross + 0.006*lucern + 0.006*seem + 0.006*imo + 0.006*don + 0.006*good + 0.006*still + 0.005*gener + 0.005*attract
+
+TOPIC:0.081*option + 0.050*packag + 0.044*leather + 0.030*standard + 0.025*seat + 0.023*power + 0.021*model + 0.018*featur + 0.018*sport + 0.017*sunroof + 0.016*wheel + 0.015*trim + 0.012*avail + 0.011*base + 0.011*premium + 0.010*offer + 0.010*includ + 0.010*heat + 0.009*get + 0.009*add + 0.009*auto + 0.008*equip + 0.008*load + 0.008*clothe + 0.008*control + 0.007*moonroof + 0.007*etc + 0.007*steer + 0.006*pkg + 0.006*interior
+
+TOPIC:0.021*uaw + 0.021*job + 0.017*worker + 0.016*union + 0.014*work + 0.011*will + 0.011*plant + 0.011*pay + 0.010*make + 0.010*compani + 0.008*get + 0.007*can + 0.007*employee + 0.007*year + 0.006*like + 0.006*industri + 0.006*rockylee + 0.006*wage + 0.006*manag + 0.006*labor + 0.005*benefit + 0.005*think + 0.005*big + 0.005*countri + 0.005*say + 0.005*rocki + 0.005*just + 0.005*auto + 0.004*take + 0.004*govern
+
+TOPIC:0.123*leas + 0.037*month + 0.031*payment + 0.024*residu + 0.021*factor + 0.019*car + 0.019*monei + 0.018*year + 0.015*mile + 0.015*per + 0.014*program + 0.011*valu + 0.011*man + 0.011*vehicl + 0.009*monthli + 0.009*base + 0.008*end + 0.008*can + 0.008*will + 0.008*current + 0.007*cash + 0.007*deal + 0.007*financ + 0.007*msrp + 0.007*right + 0.007*thank + 0.007*provid + 0.006*number + 0.006*now + 0.006*calcul
+
