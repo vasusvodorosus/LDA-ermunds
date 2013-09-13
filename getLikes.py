@@ -6,7 +6,8 @@ Created on Sat Jul 13 23:10:14 2013
 """
 import gensim
 import genSimLDAlib as gslib
-import mess_with_sims
+#import mess_with_sims
+import var_lists as lists
 import numpy
 import numpy as np
 import pandas
@@ -141,7 +142,7 @@ def main(indir=r"Z:\ermunds\results\2005 20t unbranded", modelName="2005 20topic
     dict1 = gensim.corpora.dictionary.Dictionary().load(dirs.dictFileName)
     lda = gensim.models.ldamodel.LdaModel(id2word=dict1).load(dirs.modelFname)
 
-    brands = mess_with_sims.BrandsClustered_1    
+    brands = lists.BrandsClustered_1    
     adjs= words_from_file(world_list_file_name)
     adjs.extend(brands) # just a check 
     

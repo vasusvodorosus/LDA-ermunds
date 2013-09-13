@@ -1,3 +1,8 @@
+'''
+nothing important - I was playing here to get idea about how to plot 
+a similarity matrix and cluster results
+'''
+
 import numpy
 import genSimLDAlib as gsLib
 import ldaModel2WD as mp

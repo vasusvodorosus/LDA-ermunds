@@ -22,34 +22,25 @@ import someBrandFiltering as bf
 
 def main(outdir = r'Z:\ermunds\results\2005 20t unbranded',
          num_passes=2,
+         n_repeat = 10,
          num_topics=20,
          threadChoseStr='',
          modelTag='2005+',
          time_low_cutoff=time.strptime("1 Jan 2005", "%d %b %Y"),
-         time_hi_cutoff=time.strptime("1 Jan 2006", "%d %b %Y")
-         ):
-    # posts are chosen between these two dates             
+         time_hi_cutoff=time.strptime("1 Jan 2006", "%d %b %Y"),
 
-    
+         ):
+    ''' 
+    # time_low_cutoff, time_hi_cutoff posts are chosen between these two dates             
+    # threadChoseStr - filter topic names by this phrase
+    '''
     dTr = bf.notMain(threadChoseStr)
-    #dTr = {'unbranded':dTr['unbranded']} #!!!!!!!!!
     
     modelName = modelTag+str(num_topics)+'topics'
     dirs =gslib.LDAdirs(modelName,outdir)
     with open(dirs.dataFileName,'a') as file1: pickle.dump(dTr,file1)
 
-    ## setup logging
-    '''    
-    logging.basicConfig(level=logging.DEBUG,
-                        format='%(asctime)s %(name)-20s %(levelname)-8s %(message)s',
-                        datefmt='%m-%d %H:%M:%S',
-                        filename=dirs.logFileName,
-                        filemode='a')
-    console = logging.StreamHandler()
-    console.setLevel(logging.INFO)
-    formatter = logging.Formatter('%(asctime)s %(name)-12s %(levelname)-8s %(message)s')
-    console.setFormatter(formatter);logging.getLogger('').addHandler(console)
-    '''
+    ## setup logging to file and console
     logger = logging.getLogger('')
     logger.setLevel(logging.DEBUG)
     fh = logging.FileHandler(dirs.logFileName)
@@ -89,11 +80,14 @@ def main(outdir = r'Z:\ermunds\results\2005 20t unbranded',
     mm=gensim.corpora.MmCorpus(dirs.corpusFname)
 
     ## run the LDA (2h per update on 2M posts)
+    # first runs a small step and then update 9 times saving results to disk every time
+
     lda = gensim.models.ldamodel.LdaModel(corpus=mm, id2word=dict1, num_topics=num_topics, update_every=0, passes=num_passes)
     lda.save(dirs.modelFname+"_0")
     
-    for i in xrange(9):
+    for i in xrange(n_repeat-1):
         lda.update(mm);
+        # save inremediate result
         lda.save(dirs.modelFname+"_"+str(i+1));
         for t in lda.show_topics(-1):
             logging.info(str('all topics here')+t);
